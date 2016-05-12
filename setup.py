@@ -21,7 +21,7 @@ The versioning of this extension package matches the SymPy version it extends.
         license='MIT',
         author='Haimo Zhang',
         author_email='zh.hammer.dev@gmail.com',
-        url='',
+        url='https://github.com/haimoz/sympy_extensions',
         requires=['sympy(==1.0)',],
         install_requires=['sympy==1.0',],
         packages=['sympy_extensions'],
