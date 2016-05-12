@@ -1,0 +1,7 @@
+recursive-include examples *
+recursive-include doc *
+recursive-include test *
+include README.md
+include CHANGES
+global-exclude *.py[co]
+global-exclude *.swp
